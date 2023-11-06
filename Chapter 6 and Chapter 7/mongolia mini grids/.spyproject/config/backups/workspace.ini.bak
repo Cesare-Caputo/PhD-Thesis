@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['mongolia_RL_stablebaselines_DQN_stoc.py', 'mongolia-minigrids\\mongolia_minigrids\\envs\\minigrid_basic.py', 'RL_SB_helper_mongolia.py', 'minigrid_cost_rl.py', 'electricity_generation.py', 'electricity_demand.py', 'Inflexible_baseline_mongolia.py']
+
